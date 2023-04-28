@@ -8,11 +8,7 @@ public class WordList {
         "result",
         "funnny",
         "superb",
-        "deeznu",
         "wowiee",
-        "cumulu",
-        "ligmas",
-        "bofade",
         "dragon",
         "goblin"
     };
